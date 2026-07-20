@@ -1,12 +1,3 @@
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-             YUVRAJ SINGH
-      AI • MACHINE LEARNING • GENERATIVE AI
-
-      "Building Intelligent Solutions with AI"
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 </p><img width="1983" height="793" alt="ChatGPT Image Jul 20, 2026, 11_34_16 PM" src="https://github.com/user-attachments/assets/966c17a8-3ea8-45d1-8fb8-714c7932138b" />
 
 
