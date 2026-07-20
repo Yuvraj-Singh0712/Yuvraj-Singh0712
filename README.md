@@ -81,14 +81,6 @@ I enjoy turning creative ideas into intelligent applications.
 ✔ Prompt Engineering
 ## 📊 GitHub Analytics
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-Singh0712&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-Singh0712&layout=compact&theme=tokyonight"/>
-
-</p>
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Yuvraj-Singh0712&theme=tokyonight"/>
 
@@ -96,18 +88,10 @@ I enjoy turning creative ideas into intelligent applications.
 ## 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh0712&theme=tokyo-night)](https://github.com/Yuvraj-Singh0712)
-## 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-Singh0712&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</p>
 ## 🚀 Featured AI Projects
 
 ⭐ AI PDF Chatbot
-
-⭐ AI Resume Analyzer
 
 ⭐ AI Movie Trailer Generator
 
