@@ -54,6 +54,7 @@ I enjoy turning creative ideas into intelligent applications.
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
 
 </p>
+
 ## 🤖 AI Tools
 
 ✔ OpenAI
@@ -77,6 +78,7 @@ I enjoy turning creative ideas into intelligent applications.
 <img src="https://streak-stats.demolab.com?user=Yuvraj-Singh0712&theme=tokyonight"/>
 
 </p>
+
 ## 📈 Contribution Graph
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-Singh0712&theme=tokyo-night)](https://github.com/Yuvraj-Singh0712)
@@ -107,6 +109,7 @@ I enjoy turning creative ideas into intelligent applications.
 </a>
 
 </p>
+
 ## 💡 Quote
 
 > "The future belongs to those who build intelligent systems today."
