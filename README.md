@@ -11,6 +11,7 @@ An AI Enthusiast passionate about building intelligent applications.
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Yuvraj-Singh0712&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
+
 ## 👨‍💻 About Me
 
 🌱 First-Year Artificial Intelligence Student
