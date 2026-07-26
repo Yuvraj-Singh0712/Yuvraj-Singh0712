@@ -109,10 +109,12 @@ I enjoy turning creative ideas into intelligent applications.
 ## 💡 Quote
 
 > "The future belongs to those who build intelligent systems today."
-> <p align="center">
-
-⭐ Thanks for visiting my profile!
+> <p align="center
 
 If you enjoy my projects, don't forget to star ⭐ them.
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=⭐%20Thanks%20for%20visiting%20my%20profile!&section=footer&fontSize=50&animation=twinkling&fontColor=000&strokeWidth=-14"/>
 </p>
